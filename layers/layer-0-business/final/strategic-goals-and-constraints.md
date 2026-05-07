@@ -1,7 +1,7 @@
 ---
 title: "Strategic Goals and Constraints"
 owner: "Rafael Torre"
-status: needs_review
+status: consensus
 last_updated: "2026-05-07"
 relates_to:
   - layers/layer-0-business/final/business-overview.md
